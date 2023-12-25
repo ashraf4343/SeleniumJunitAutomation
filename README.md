@@ -34,7 +34,7 @@ Open the project in your Java IDE.
 
 Set up dependencies and configurations as needed.
 
-##Running the Tests
+## Running the Tests
 To run the tests, follow these steps:
 
 Navigate to the MyJunitAutomation class located at src/main/java/your/package/MyJunitAutomation.java.
