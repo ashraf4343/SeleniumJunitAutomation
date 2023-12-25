@@ -1,46 +1,4 @@
-# Selenium JUnit Automation
 
-This project demonstrates automated testing using Selenium with JUnit. It includes test cases for various scenarios such as interacting with web elements, handling alerts, and more.
-
-## Table of Contents
-
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Running the Tests](#running-the-tests)
-- [Test Results](#test-results)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Getting Started
-
-### Prerequisites
-
-- Java Development Kit (JDK)
-- IntelliJ IDEA or any preferred Java IDE
-- ChromeDriver (for running tests in Chrome)
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository_url>
-   
-Running the Tests
-To run the tests, follow these steps:
-
-Navigate to the MyJunitAutomation class located at src/main/java/your/package/MyJunitAutomation.java.
-
-Run the MyJunitAutomation class. You can do this by right-clicking on the class and selecting "Run MyJunitAutomation" or using the Run button in your IDE.
-
-
-
-Absolutely! Let's enhance the README to provide clear instructions for anyone to run your project and include the test result output:
-
-markdown
-Copy code
 # Selenium JUnit Automation
 
 This project demonstrates automated testing using Selenium with JUnit. It includes test cases for various scenarios such as interacting with web elements, handling alerts, and more.
