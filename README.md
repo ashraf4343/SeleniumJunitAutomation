@@ -56,6 +56,11 @@ Here are the results of each test:
 | uploadImage()          | 1.547s   | Passed  |
 | writeSomething()       | 7.289s   | Passed  |
 
+
+
+
+
+
 Screenshots
 ![Screenshot_38](https://github.com/ashraf4343/SeleniumJunitAutomation/assets/24635317/026acaaa-8547-4c05-8d34-512cdea26600)
 
