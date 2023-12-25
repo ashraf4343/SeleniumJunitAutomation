@@ -44,16 +44,18 @@ Run the MyJunitAutomation class. You can do this by right-clicking on the class 
 Test Results
 Here are the results of each test:
 
-Test Name	Duration	Result
-clickButton()	1.528s	Passed
-handleAlert()	3.829s	Passed
-handleCalender()	1.765s	Passed
-mouseHover()	18.318s	Passed
-selectDropdown()	2.051s	Passed
-selectMultipleDropdown	2.265s	Passed
-selectWithDropdown()	1.325s	Failed
-uploadImage()	1.547s	Passed
-writeSomething()	7.289s	Passed
+| Test Name              | Duration | Result  |
+|------------------------|----------|---------|
+| clickButton()          | 1.528s   | Passed  |
+| handleAlert()          | 3.829s   | Passed  |
+| handleCalender()       | 1.765s   | Passed  |
+| mouseHover()           | 18.318s  | Passed  |
+| selectDropdown()       | 2.051s   | Passed  |
+| selectMultipleDropdown  | 2.265s   | Passed  |
+| selectWithDropdown()   | 1.325s   | Failed  |
+| uploadImage()          | 1.547s   | Passed  |
+| writeSomething()       | 7.289s   | Passed  |
+
 Screenshots
 ![Screenshot_38](https://github.com/ashraf4343/SeleniumJunitAutomation/assets/24635317/026acaaa-8547-4c05-8d34-512cdea26600)
 
