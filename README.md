@@ -12,7 +12,7 @@ This project demonstrates automated testing using Selenium with JUnit. It includ
 - [Test Results](#test-results)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Getting Started
 
@@ -41,7 +41,7 @@ Navigate to the MyJunitAutomation class located at src/main/java/your/package/My
 
 Run the MyJunitAutomation class. You can do this by right-clicking on the class and selecting "Run MyJunitAutomation" or using the Run button in your IDE.
 
-Test Results
+## Test Results
 Here are the results of each test:
 
 | Test Name              | Duration | Result  |
@@ -61,9 +61,9 @@ Here are the results of each test:
 
 
 
-Screenshots
+## Screenshots
 ![Screenshot_38](https://github.com/ashraf4343/SeleniumJunitAutomation/assets/24635317/026acaaa-8547-4c05-8d34-512cdea26600)
 
 
-Contributing
+## Contributing
 Feel free to contribute by opening issues or creating pull requests.
